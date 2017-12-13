@@ -6,7 +6,12 @@ I've been programming since the late 80's but taken some big breaks to be a perf
 
 I've used other source code repositories and am really enjoying using Git.  It's the first stop as I'm updating my skills here at the end of 2017 and into 2018.
 
-I've posted some project here, but things are a bit messy at the moment.  Nothing too profound.  Some code from Udacity courses and a website or two for firends.
+I've posted some project here, but things are a bit messy at the moment.  Nothing too profound.  Some code from Udacity courses and a website or two for friends.
+
+##Projects
+
+### [Hello World](https://biscaboy.github.io/hello-world/)
+This project was just something I did to relearn how to use Git, GitHub, GitHubPage and GitHub Desktop.
 
 
 _Thanks for reading!_
