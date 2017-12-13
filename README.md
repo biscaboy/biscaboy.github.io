@@ -8,7 +8,7 @@ I've used other source code repositories and am really enjoying using Git.  It's
 
 I've posted some project here, but things are a bit messy at the moment.  Nothing too profound.  Some code from Udacity courses and a website or two for friends.
 
-##Projects
+## Projects
 
 ### [Hello World](https://biscaboy.github.io/hello-world/)
 This project was just something I did to relearn how to use Git, GitHub, GitHubPage and GitHub Desktop.
