@@ -1,3 +1,21 @@
+# David J. Dickinson's GitHub Repository
+
+## About Me
+
+I've been programming since the late 80's but taken some big breaks to be a performer.  If you're curious, [see some of my exploits as an actor](http://www.davidjdickinson.com).  I started progamming in BASIC in High School from my golf coach Mr. Murphy.  I'm so grateful to that man.  He got me started on a path that I didn't realized I'd enjoy so much.
+
+I've used other source code repositories and am really enjoying using Git.  It's the first stop as I'm updating my skills here at the end of 2017 and into 2018.
+
+I've posted some project here, but things are a bit messy at the moment.  Nothing to profound.  Some code from Udacity courses and a website or two for firends.
+
+
+_Thanks for reading!_
+
+
+*I'm leaving this welcome message up for myself for the moment for the reference to Markdown becuase I need it.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/biscaboy/biscaboy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
