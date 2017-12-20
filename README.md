@@ -9,6 +9,6 @@ Right now I'm learning new things, starting with Git.
 ## Projects
 
 ### [Hello World](https://biscaboy.github.io/hello-world/)
-Like I said, I'm restarting with how to use Git, GitHub, GitHubPage and GitHub Desktop.
+Like I said, I'm restarting with how to use Git, GitHub, [GitHubPage](https://biscaboy.github.io/) and GitHub Desktop.
 
 _Thanks for reading!_
