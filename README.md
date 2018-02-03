@@ -8,7 +8,7 @@ Right now I'm learning new things.
 
 ## Projects
 
-### [Memory Game}(https://biscaboy.github.io/fend-project-memory-game/)
+### [Memory Game](https://biscaboy.github.io/fend-project-memory-game/)
 Part of the web developer course at Udacity.
 
 ### [Hello World](https://biscaboy.github.io/hello-world/)
