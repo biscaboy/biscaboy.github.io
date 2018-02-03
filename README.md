@@ -12,7 +12,7 @@ Right now I'm learning new things.
 Part of the web developer course at Udacity.  Try to cross the street and pick up some saphires, emeralds and diamonds along the way.  All this helped me learn about object oriented programming in Javascript.
 
 ### [Memory Game](https://biscaboy.github.io/fend-project-memory-game/)
-Part of the web developer course at Udacity.  Try to match cards to test your memory.  
+Part of the web developer course at Udacity.  Try to match cards to test your memory.  I got to learn about media queries, CSS animation and practice CSS layouts and class manipulations in HTML5.
 
 ### [Hello World](https://biscaboy.github.io/hello-world/)
 Practicing with Git, GitHub, [GitHubPage](https://biscaboy.github.io/) and GitHub Desktop.
