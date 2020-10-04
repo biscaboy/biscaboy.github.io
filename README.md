@@ -2,22 +2,27 @@
 
 ## About Me
 
-My name is David Dickinson and wrote my first programs on an Apple IIe and I'm still here.  My other passion is acting.  If you're curious, [see some of my acting exploits](http://www.davidjdickinson.com).  
+My name is David Dickinson.  I wrote my first programs on an Apple IIe (anyone remember Logo?) and I still love seeing computers come alive with some lines of code.  My other passion is acting.  If you're curious, [checkout some of my acting exploits](http://www.davidjdickinson.com).  
 
-Right now I'm learning new things.  
+I'm still learning.  Here are some projects I've done lately...
 
-## Projects
+## Udacity Student Projects
+
+### [Super*Duper*Drive Cloud Storage](https://github.com/biscaboy/cloudstorage)
+This project is part of the Java Web Developer course.  I created a website using  
+[Spring](https://spring.io),
+[Spring Boot](https://spring.io/projects/spring-boot),
+[Thymeleaf](https://www.thymeleaf.org/) 
+the [Spring Initializer](https://start.spring.io/), 
+the [MyBatis](https://mybatis.org) ORM (Object-Relational Mapping) framework,
+the [JUnit 5](https://junit.org/junit5/) testing framework,
+the [Selenium](https://www.selenium.dev/) WebDriver for integration testing and 
+the IntelliJ IDE.
 
 ### [Frogger Game](https://biscaboy.github.io/frogger-game/)
-Part of the web developer course at Udacity.  Try to cross the street and pick up some saphires, emeralds and diamonds along the way.  All this helped me learn about object oriented programming in Javascript.
+Part of the web developer course at Udacity using HTML5 and Javascript.  Try to cross the street and pick up some saphires, emeralds and diamonds along the way using an object oriented design in Javascript.
 
 ### [Memory Game](https://biscaboy.github.io/fend-project-memory-game/)
-Part of the web developer course at Udacity.  Try to match cards to test your memory.  I got to learn about media queries, CSS animation and practice CSS layouts and class manipulations in HTML5.
-
-### [Responsive Design Portfolio](http://biscaboy.github.io/portfolio/)
-Another single web page project with some links that got me using CSS responsively.
-
-### [Hello World](https://biscaboy.github.io/hello-world/)
-Practicing with Git, GitHub, [GitHubPage](https://biscaboy.github.io/) and GitHub Desktop.
+Part of the web developer course at Udacity using HTML5 and Javascript.  Try to match cards to test your memory.  Exercised media queries, CSS animation, CSS layouts and class manipulations.
 
 _Thanks for reading!_
