@@ -1,4 +1,4 @@
-# [Biscaboy's GitHub Repository](https://github.com/biscaboy/biscaboy.github.io)
+# [Biscaboy's GitHub Repository](https://github.com/biscaboy)
 
 ## About Me
 
