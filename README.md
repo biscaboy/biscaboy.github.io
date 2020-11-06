@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is David Dickinson.  I wrote my first programs on an Apple IIe (anyone remember Logo?) and I still love seeing computers come alive with some lines of code.  My other passion is acting.  If you're curious, [checkout some of my acting exploits](http://www.davidjdickinson.com).  
+My name is David Dickinson.  I wrote my first programs on an Apple IIe (anyone remember Logo?), and I still love seeing computers come alive with some lines of code.  My other passion is acting.  If you're curious, [checkout some of my acting exploits](http://www.davidjdickinson.com).  
 
 I'm still learning.  Here are some projects I've done lately...
 
