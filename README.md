@@ -19,6 +19,9 @@ the [JUnit 5](https://junit.org/junit5/) testing framework,
 the [Selenium](https://www.selenium.dev/) WebDriver for integration testing and 
 the IntelliJ IDE.
 
+### [Vehicle API and Pricing Microservice](https://github.com/biscaboy/cars)
+Programming exercise to create a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services using JSON.
+
 ### [Frogger Game](https://biscaboy.github.io/frogger-game/)
 Part of the web developer course at Udacity using HTML5 and Javascript.  Try to cross the street and pick up some saphires, emeralds and diamonds along the way using an object oriented design in Javascript.
 
