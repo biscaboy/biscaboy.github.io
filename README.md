@@ -2,9 +2,9 @@
 
 ## About Me
 
-My name is David Dickinson.  I wrote my first programs on an Apple IIe (anyone remember Logo?), and I still love seeing computers come alive with some lines of code.  My other passion is acting.  If you're curious, [checkout some of my acting exploits](http://www.davidjdickinson.com). 
+My name is David Dickinson.  I wrote my first programs on an Apple IIe (anyone remember Logo?), and I still love seeing computers come alive with some lines of code.  My other passion is acting.  If you're curious, [checkout some of my acting exploits](http://www.davidjdickinson.com).  I have some [good experience developing software](https://linkedin.com/in/david-j-dickinson-tech) too.
 
-I'm still learning.  To update my Java and Front End skills I recently took some [Udacity](https://www.udacity.com/) courses.  I have some [good experience developing software](https://linkedin.com/in/david-j-dickinson-tech) too.
+I'm still learning.  To update my Java and Front End skills I recently took some [Udacity](https://www.udacity.com/) courses.  
 
 ## Udacity Student Projects
 
