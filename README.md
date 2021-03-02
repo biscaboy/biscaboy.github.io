@@ -24,7 +24,7 @@ Critter Chronologer is a Software as a Service application that provides a sched
 This project is a collection of backend webservices using [Netflix's Eureka Server](https://github.com/Netflix/eureka) service discovery. 
 I created a Vehicles API using Java and [Spring Boot](https://spring.io/projects/spring-boot) that can communicate with separate location and pricing microservices.
 
-### [Super*Duper*Drive Cloud Storage](https://github.com/biscaboy/cloudstorage)([Demo](https://cloudstorage.davidjdickinson.com))
+### [Super*Duper*Drive Cloud Storage](https://github.com/biscaboy/cloudstorage) [[Demo](https://cloudstorage.davidjdickinson.com)]
 In this Java project, I created simple secure website which introduced me to following Java technologies:
 [Spring](https://spring.io),
 [Spring Boot](https://spring.io/projects/spring-boot),
