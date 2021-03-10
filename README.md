@@ -42,3 +42,7 @@ Part of the web developer course at Udacity using HTML5 and Javascript.  Try to 
 
 _Thanks for reading!_
  
+<meta name="title" property="og:title" content="Biscaboy Featured GitHub Repositories" />
+<meta property="og:type" content="Website" />
+<meta name="image" property="og:image" content="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" />
+<meta name="description" property="og:description" content="David Dickinson's featrued repositories." /><meta name="author" content="David J. Dickinson" />
